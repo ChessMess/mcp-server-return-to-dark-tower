@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **This project has moved.** `mcp-server-return-to-dark-tower` is now part of the
+> [UltimateDarkTower monorepo](https://github.com/ChessMess/UltimateDarkTower) at `apps/mcp-server`.
+> Development continues there; this repository is **archived / read-only**.
+> Full git history was preserved (tag `mcp-v1.0.0`).
+>
+> The npm package name is unchanged — `npx -y mcp-server-return-to-dark-tower` still works,
+> and releases now ship from the monorepo.
+
 # Return to Dark Tower — AI MCP Server
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
